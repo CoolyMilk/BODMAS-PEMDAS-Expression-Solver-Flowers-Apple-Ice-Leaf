@@ -1,4 +1,4 @@
-# BODMAS-PEMDAS-Expression-Solver-Flowers-Apple-Ice-Leaf---F.A.I.L-
+# BODMAS-PEMDAS-Expression-Solver-Flowers-Apple-Ice-Leaf
 Just a basic program that should solve most valid expressions with
 only the * / + - operators and parentheses. I added a ** ( power )
 as a bonus! With the way I made the program, I could probably add 
