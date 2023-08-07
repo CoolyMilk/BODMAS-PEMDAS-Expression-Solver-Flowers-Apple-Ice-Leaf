@@ -11,6 +11,4 @@ But I think it should solve like it? I don't exactly know how it's
 exactly implemented. I learned about how it worked around a year ago. 
 (Roughly) and I programmed it based on what I remember. Programming 
 in c has certainly opened my eyes. I have programmed in python for 
-around 4 years and just. Wow. I know nothing. I know nothing at all. 
-It feels like I just wasted a chunk of my life for nothing. I guess
-I did. I didn't improve as much I wamted to.
+around 4 years and just. Wow, this type of programming is interesting. I know nothing. I guess I didn't improve as much I wanted to.
